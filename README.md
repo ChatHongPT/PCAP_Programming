@@ -25,11 +25,11 @@ Before running the program, ensure the following are installed on your system:
 1. Clone or download this repository.
 2. Compile the program using:
    ```bash
-   gcc -o packet_capture packet_capture.c -lpcap
+   gcc -o PCAP_Programming PCAP_Programming.c -lpcap
    ```
 3. Run the program with administrative privileges:
    ```bash
-   sudo ./packet_capture
+   sudo ./PCAP_Programming.c
    ```
 
 ## Output
